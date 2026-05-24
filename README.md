@@ -30,5 +30,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn torch torchvision
 ### 2. Run the pipeline
 Ensure the MNIST dataset files are extracted and available in your working directory path as expected by the script, then execute:
 ```bash 
-python "Vae_mnist_FULLcode FINAL.py"
+python "Vae_mnist.py"
 ```
