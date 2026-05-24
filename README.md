@@ -2,7 +2,7 @@
 
 This repository contains my final project for the university Computer Vision course. The objective of this project was to design, implement, and train a Variational Autoencoder (VAE) using the MNIST dataset of handwritten digits. By mapping the input data to a smooth, continuous latent space, the model is capable of synthesizing entirely new, realistic digit images.
 
-The complete implementation—including network architecture design, custom loss functions, training loops, and generation scripts—is available in `Vae_mnist_FULLcode FINAL.py`.
+The complete implementation—including network architecture design, custom loss functions, training loops, and generation scripts—is available in `Vae_mnist.py`.
 
 ## What I Did in This Project
 
